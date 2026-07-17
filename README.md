@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me<br><br>🔭 I’m currently working on  <br>AI-powered automation systems, Multi-Agent Applications, and Full-Stack Web Development projects<br><br>👯 I’m looking to collaborate on  <br>AI/ML projects, Open Source Contributions, and innovative startup ideas<br><br>🤝 I’m looking for help with  <br>Large-scale AI systems, Cloud Infrastructure, MLOps<br><br>🌱 I’m currently learning  <br>Machine Learning, System Design, Cloud Computing (AWS & Azure), and Agentic AI<br><br>💬 Ask me about  <br>Java, Python, React, Node.js, Machine Learning, Data Structures & Algorithms, and Full-Stack Development<br><br>⚡ Fun fact  <br>I enjoy solving coding challenges, building AI products, and turning repetitive workflows into automated systems.
 
 
