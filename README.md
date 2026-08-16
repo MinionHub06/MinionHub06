@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="portrait.svg" alt="ASCII portrait of Om Nayak" width="460">
 </p>
 
