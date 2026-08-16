@@ -103,8 +103,11 @@ def main() -> None:
 
     # Tight crop for the supplied portrait. Change only if replacing the source image.
     h, w = img.shape[:2]
-    if w >= 1100 and h >= 1160:
-        img = img[110:1160, 200:1100]
+
+    if w >= 1400 and h >= 1400:
+        x1, x2 = 180, 1260
+        y1, y2 = 50, 1300
+        img = img[y1:y2, x1:x2]
 
     img = remove_background(img)
     font_data = base64.b64encode(font.read_bytes()).decode("ascii")
