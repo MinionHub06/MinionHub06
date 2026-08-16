@@ -1,17 +1,59 @@
-### 💫 About Me<br><br>🔭 I’m currently working on  <br>AI-powered automation systems, Multi-Agent Applications, and Full-Stack Web Development projects<br><br>👯 I’m looking to collaborate on  <br>AI/ML projects, Open Source Contributions, and innovative startup ideas<br><br>🤝 I’m looking for help with  <br>Large-scale AI systems, Cloud Infrastructure, MLOps<br><br>🌱 I’m currently learning  <br>Machine Learning, System Design, Cloud Computing (AWS & Azure), and Agentic AI<br><br>💬 Ask me about  <br>Java, Python, React, Node.js, Machine Learning, Data Structures & Algorithms, and Full-Stack Development<br><br>⚡ Fun fact  <br>I enjoy solving coding challenges, building AI products, and turning repetitive workflows into automated systems.
+<p align="center">
+  <img src="portrait.svg" alt="ASCII portrait of Om Nayak" width="460">
+</p>
 
+> I build AI-powered products, full-stack systems, and automation that turn
+> repetitive work into software.
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om.nayak__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-nayak-b3587228a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:om.nayak0605@gmail.com) 
+<p align="center">
+  <samp>AI / ML · Backend · Full Stack · Cloud · Systems</samp>
+</p>
 
-### 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MinionHub06&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MinionHub06&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MinionHub06&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/MinionHub06">github</a> ·
+  <a href="https://omnayak-portfolio.vercel.app">portfolio</a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="heading-about.svg" alt="About">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a Computer Science and Engineering student at VIT Vellore, interested in
+machine learning, agentic systems, backend engineering, and practical software
+architecture. I like taking an idea from a rough prototype to a working product,
+then automating the parts that should not need a human twice.
+
+<img src="heading-selected-work.svg" alt="Selected work">
+
+- <samp>TriGuard</samp> — explainable ML for real-time SQL injection detection,
+  combining XGBoost, SHAP, Flask, AWS SNS, and CloudWatch.
+- <samp>Graham Scan</samp> — an interactive computational-geometry visualizer
+  for robust convex-hull construction and drone-navigation experiments.
+- <samp>OWLAI</samp> — frontend engineering work built around a practical web
+  product workflow.
+- <samp>GreenLens</samp> — intelligent waste classification research using
+  computer vision, ML, and web technologies.
+- <samp>UniRide</samp> — a VIT-focused ride-sharing platform using React,
+  Firebase, Firestore, and Node.js.
+
+<img src="heading-stack.svg" alt="Stack">
+
+<samp>Python · Java · C · C++ · JavaScript · React · Node.js · Flask · FastAPI</samp><br>
+<samp>MongoDB · Firebase · Firestore · SQL · AWS · Docker · GitHub Actions</samp><br>
+<samp>Machine Learning · Computer Vision · ViT · YOLO · XGBoost · SHAP</samp>
+
+<img src="heading-github-activity.svg" alt="GitHub activity">
+
+<img src="stats.svg" alt="GitHub contribution total and weekly activity" width="620">
+
+<img src="streak.svg" alt="Current and longest GitHub contribution streaks" width="620">
+
+<img src="langs.svg" alt="Top programming languages by bytes and repository count" width="620">
+
+<img src="year.svg" alt="One character per day contribution year" width="620">
+
+<img src="heading-elsewhere.svg" alt="Elsewhere">
+
+<samp>open to collaboration on AI/ML, backend systems, automation, and open-source projects.</samp>
+
+---
+
+<sub>this profile is generated from code, not a template.</sub>

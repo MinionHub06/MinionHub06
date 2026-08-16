@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+assets/portrait-source.jpg
+assets/portrait-cut.png
+generated/
+.DS_Store
